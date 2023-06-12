@@ -1,0 +1,13 @@
+.cardTest{
+    font-size: 1.5rem;
+    color: rgb(202, 205, 205);
+}
+.imgTest{
+    height: 10em;
+    width: 10em;
+}
+
+.cardMain{
+    background-color: rgb(131, 130, 130);
+    padding: 0;
+}

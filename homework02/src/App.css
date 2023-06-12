@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  font: 1.2em sans-serif;
+}
+
+.App-header {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.title{
+  padding: 2rem;
+  color: beige;
+}
+.cardWaper{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows:repeat(2,1fr) ;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
