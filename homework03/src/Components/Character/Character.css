@@ -1,0 +1,20 @@
+.charactherDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px dotted black;
+    background-color: rgb(182, 187, 187);
+}
+h2{
+    font-style: italic;
+}
+
+.charactherDiv:hover{
+    transform: scale(1.2);
+    border: solid 1px black;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
